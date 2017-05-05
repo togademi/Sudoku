@@ -7,4 +7,3 @@
 
 ![Sudoku solver](http://i.imgur.com/STTqV2X.png)
 
-## [Download](https://www.dropbox.com/s/gvb6jdor49y0hj7/sudoku1.5.xlsm?dl=0)
