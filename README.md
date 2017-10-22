@@ -1,6 +1,6 @@
 # Sudoku solver
 
-### How to use
+## How to use
 
 Open the `.xlsm` file with Microsoft Excel and enable macros there.
 
