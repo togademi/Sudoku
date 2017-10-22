@@ -1,6 +1,10 @@
 # Sudoku solver
 
-##### To try it: open the `.xlsm` file with Microsoft Excel and enable macros there.
+### How to use
+
+Open the `.xlsm` file with Microsoft Excel and enable macros there.
+
+---
 
 Sudoku solver made in Excel using VBA for the Microproject assignment of the Engineering Preparatory Cycle.
 
