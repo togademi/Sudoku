@@ -8,8 +8,6 @@ Open the `.xlsm` file with Microsoft Excel and enable macros there.
 
 ---
 
-For the moment it only solves easy sudokus and has a few features to improve.
-
-
-
 ![Sudoku solver](http://i.imgur.com/STTqV2X.png)
+
+For the moment it only solves easy sudokus and has a few features to improve.
