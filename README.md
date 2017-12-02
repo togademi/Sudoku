@@ -4,7 +4,7 @@ Sudoku solver made in Excel using VBA for the Microproject assignment of the Eng
 
 ## How to use
 
-Open the `.xlsm` file with Microsoft Excel and enable macros there.
+Open `sudoku.xlsm` with Microsoft Excel and enable macros there.
 
 ![Sudoku solver](./images/example.png)
 
